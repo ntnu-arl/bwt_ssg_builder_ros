@@ -1,0 +1,3 @@
+## Ballast Tank SSG Builder
+
+This repository contains the code to segment the semantics inside the ballast water tank and build a semantic scene graph. This code is used in the [Semantics-aware Predictive Planning](https://github.com/ntnu-arl/predictive_planning_ros) work. Please refer to the repository [here](https://github.com/ntnu-arl/predictive_planning_ros) for installation and demo instructions.
